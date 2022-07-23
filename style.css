@@ -1,3 +1,5 @@
+/* TEMPLATE STYLES */
+
 body {
     margin: auto;
     display: flex;
@@ -9,6 +11,10 @@ body {
 
     /* Changes at media query */
     width: 40%;
+}
+
+a, a:visited {
+    color: #0066cc;
 }
 
 /* NAVBAR */
@@ -30,12 +36,9 @@ nav.menu a {
     text-decoration: none;
     white-space: nowrap;
 }
-nav.menu a:visited {
-    color: #0066cc;
-}
 
 /* CONTENT */
-div#content {
+body > div.content {
     flex: 4;
 }
 
@@ -71,4 +74,45 @@ div#content {
         float: left;
         margin-right: 10px;
     }
+}
+
+@media (max-width: 650px) {
+    body {
+        width: 90%;
+    }
+}
+
+/* RESUME STYLES */
+
+div#infos h2, div#infos h3 {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+div#links a {
+    text-decoration: none;
+}
+img.linkedin-logo {
+    width: fit-content;
+    height: auto;
+}
+
+div#education h4,
+div#work-experience h4,
+div#languages h4
+{
+    margin-bottom: 15px;
+}
+div#education ul, div#education li p,
+div#work-experience ul, div#work-experience li p,
+div#languages ul, div#languages li p
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+div#education ul,
+div#work-experience ul,
+div#languages ul
+{
+    padding-left: 5ch;
 }
