@@ -17,6 +17,8 @@ nav.menu {
     position: sticky;
     top: 0;
     height: fit-content;
+    border-right: 1px solid black;
+    padding-right: 10px;
 }
 nav.menu ul {
     padding-left: 0;
@@ -58,6 +60,9 @@ div#content {
     nav.menu {
         padding: 10px;
         background-color: #F7ECDE;
+        border-bottom: 1px solid black;
+        border-right: 0px;
+        padding-right: 0px;
     }
     nav.menu ul {
         margin: 0;
