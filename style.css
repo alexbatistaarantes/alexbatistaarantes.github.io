@@ -1,0 +1,69 @@
+body {
+    margin: auto;
+    display: flex;
+    gap: 10px;
+    padding-top: 10px;
+    background-color: #F7ECDE;
+    font-family: 'Courier New', monospace;
+    font-size: 1.2rem;
+
+    /* Changes at media query */
+    width: 40%;
+}
+
+/* NAVBAR */
+nav.menu {
+    flex: 1;
+    position: sticky;
+    top: 0;
+    height: fit-content;
+}
+nav.menu ul {
+    padding-left: 0;
+}
+nav.menu li {
+    list-style-type: none;
+}
+nav.menu a {
+    text-decoration: none;
+    white-space: nowrap;
+}
+nav.menu a:visited {
+    color: #0066cc;
+}
+
+/* CONTENT */
+div#content {
+    flex: 4;
+}
+
+@media (max-width: 1600px) {
+    body {
+        width: 60%;
+    }
+}
+
+@media (max-width: 1300px) {
+    body {
+        width: 70%;
+    }
+}
+
+@media (max-width: 900px) {
+    body {
+        flex-direction: column;
+        width: 70%;
+    }
+
+    nav.menu {
+        padding: 10px;
+        background-color: #F7ECDE;
+    }
+    nav.menu ul {
+        margin: 0;
+    }
+    nav.menu li {
+        float: left;
+        margin-right: 10px;
+    }
+}
