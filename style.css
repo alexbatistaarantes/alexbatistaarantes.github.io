@@ -1,3 +1,29 @@
+.light {
+    --bg-color: #F7ECDE;
+    --font-color: #a40000;
+    --link-color: #0066cc;
+}
+.dark {
+    --bg-color: #373333;
+    --font-color: #cec4c4;
+    --link-color: #49a0f7;
+}
+@media (prefers-color-scheme: light){
+    .preferable {
+        --bg-color: #F7ECDE;
+        --font-color: #a40000;
+        --link-color: #0066cc;
+    }
+}
+@media (prefers-color-scheme: dark){
+    .preferable {
+        --bg-color: #373333;
+        --font-color: #cec4c4;
+        --link-color: #49a0f7;
+    }
+}
+
+/* ############### */
 /* TEMPLATE STYLES */
 
 body {
@@ -5,17 +31,28 @@ body {
     display: flex;
     gap: 10px;
     padding-top: 10px;
-    background-color: #F7ECDE;
+    background-color: var(--bg-color);
+    color: var(--font-color);
     font-family: 'Courier New', monospace;
     font-size: 1.2rem;
 
     /* Changes at media query */
-    width: 40%;
+    width: 50%;
 }
 
 a, a:visited {
     text-decoration: none;
-    color: #0066cc;
+    color: var(--link-color);
+}
+
+button {
+    background-color: var(--bg-color);
+    color: var(--font-color);
+    border-color: var(--font-color);
+    font-family: 'Courier New', monospace;
+}
+button:hover {
+    cursor: pointer;
 }
 
 /* NAVBAR */
@@ -24,7 +61,8 @@ nav.menu {
     position: sticky;
     top: 0;
     height: fit-content;
-    border-right: 1px solid black;
+    background-color: var(--bg-color);
+    border-right: 1px solid var(--font-color);
     padding-right: 10px;
 }
 nav.menu ul {
@@ -42,18 +80,17 @@ body > div.content {
     flex: 4;
 }
 
+/* RESPONSIVE STYLES */
 @media (max-width: 1600px) {
     body {
         width: 60%;
     }
 }
-
 @media (max-width: 1300px) {
     body {
         width: 70%;
     }
 }
-
 @media (max-width: 900px) {
     body {
         flex-direction: column;
@@ -62,8 +99,7 @@ body > div.content {
 
     nav.menu {
         padding: 10px;
-        background-color: #F7ECDE;
-        border-bottom: 1px solid black;
+        border-bottom: 1px solid var(--font-color);
         border-right: 0px;
         padding-right: 0px;
     }
@@ -75,7 +111,6 @@ body > div.content {
         margin-right: 10px;
     }
 }
-
 @media (max-width: 650px) {
     body {
         width: 90%;
@@ -111,6 +146,7 @@ div#resume > div#links a {
     white-space: nowrap;
 }
 div#resume > div#links a img {
+    background-color: var(--bg-color);
     height: 1em;
     width: auto;
     vertical-align: top;
