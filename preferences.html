@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <title> Site Preferences </title>
 
     <link rel="stylesheet" href="style.css">
@@ -20,7 +21,7 @@
 </head>
 <body>
     
-    <nav class="menu">  
+    <nav>  
         <ul>
             <li> <a href="index.html" class="active"> 🏠Home </a> </li>
             <li> <a href="resume.html"> 📃Resume </a> </li>
@@ -28,15 +29,17 @@
         </ul>
     </nav>
 
-    <div id="preferences" class="content">
-        <h2> Preferences </h2>
-        <div class="js-needed">
-            <h3> 🖌️Theme </h3>
-            <button onclick="apply_theme('preferable')"> 🎛️ Browser's default </button>
-            <button onclick="apply_theme('light')"> ☀️ Light </button>
-            <button onclick="apply_theme('dark')"> 🌑 Dark </button>
+    <main>
+        <div id="preferences">
+            <h2> Preferences </h2>
+            <div class="js-needed">
+                <h3> 🖌️Theme </h3>
+                <button onclick="apply_theme('preferable')"> 🎛️ Browser's default </button>
+                <button onclick="apply_theme('light')"> ☀️ Light </button>
+                <button onclick="apply_theme('dark')"> 🌑 Dark </button>
+            </div>
         </div>
-    </div>
+    </main>
 
     <script src="script.js"></script>
 </body>

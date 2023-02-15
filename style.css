@@ -56,7 +56,7 @@ button:hover {
 }
 
 /* NAVBAR */
-nav.menu {
+nav {
     flex: 1;
     position: sticky;
     top: 0;
@@ -65,18 +65,18 @@ nav.menu {
     border-right: 1px solid var(--font-color);
     padding-right: 10px;
 }
-nav.menu ul {
+nav ul {
     padding-left: 0;
 }
-nav.menu li {
+nav li {
     list-style-type: none;
 }
-nav.menu a {
+nav a {
     white-space: nowrap;
 }
 
-/* CONTENT */
-body > div.content {
+/* MAIN */
+main {
     flex: 4;
 }
 
@@ -97,16 +97,16 @@ body > div.content {
         width: 70%;
     }
 
-    nav.menu {
+    nav {
         padding: 10px;
         border-bottom: 1px solid var(--font-color);
         border-right: 0px;
         padding-right: 0px;
     }
-    nav.menu ul {
+    nav ul {
         margin: 0;
     }
-    nav.menu li {
+    nav li {
         float: left;
         margin-right: 10px;
     }
@@ -115,6 +115,13 @@ body > div.content {
     body {
         width: 90%;
     }
+}
+
+/* ############# */
+/* HOME STYLES */
+
+div#home > ul {
+    list-style: none;
 }
 
 /* ############# */
@@ -134,13 +141,13 @@ div#resume > div > ul, div#resume > div li > p {
     margin-top: 5px;
     margin-bottom: 5px;
 }
-div#resume > div > ul
-{
+div#resume > div > ul{
     padding-left: 5ch;
 }
 
-div#resume > div#links p {
-    margin: 0;
+div#resume > div#links > ul  {
+    padding-left: 0;
+    list-style: none;
 }
 div#resume > div#links a {
     white-space: nowrap;

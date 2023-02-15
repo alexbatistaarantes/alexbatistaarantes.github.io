@@ -1,6 +1,7 @@
 function load_theme() {
     var root = document.documentElement;
     var theme = localStorage.getItem('theme');
+    console.log(localStorage);
     if( !theme ){ 
         theme = 'preferable';
     }
