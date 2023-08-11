@@ -144,6 +144,9 @@ div#resume > div > ul, div#resume > div li > p {
 div#resume > div > ul{
     padding-left: 5ch;
 }
+div#resume > div > ul > li {
+    margin-bottom: 15px;
+}
 
 div#resume > div#links > ul  {
     padding-left: 0;
