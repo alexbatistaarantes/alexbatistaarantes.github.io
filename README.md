@@ -1,6 +1,6 @@
-# [alexbatistaarantes.github.io](https://alexbatistaarantes.github.io/)
+# alexbatistaarantes
 
-📃 [My Resume](./resume.html)
+📃 [My Resume](./resume.md)
 
 📈 [Data Analysis Portfolio](https://alexbatistaarantes.github.io/data-analysis)
 
