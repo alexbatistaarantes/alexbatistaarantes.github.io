@@ -1,4 +1,4 @@
-# Alex Batista Arantes Neto
+# Alex Batista Arantes
 
 📍 Goiânia, Goiás, Brazil
 

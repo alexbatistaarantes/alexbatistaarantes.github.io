@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-body {
-    background-color: red;
+img[alt~="Data Analysis Portfolio Banner"] {
+    border-radius: 10px;
 }
