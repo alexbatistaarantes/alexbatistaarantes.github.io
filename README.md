@@ -7,16 +7,16 @@ E-mail: alexbatistaarantes@gmail.com
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexbatistaarantes)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexbatistaarantes)
 
-[![Data Analysis Portfolio Banner](./Banner%20Data%20Analysis%20Portfolio.png)](https://alexbatistaarantes.github.io/data-analysis/)
 
-## 📦 Repositories
+## 📦 Apps and Repositories
+
+- 📚 [**Data Analysis Portfolio**](https://alexbatistaarantes.github.io/data-analysis/)
 - 📊 [Letterboxd Dashboard](https://alexbatistaarantes.github.io/letterboxd-dashboard/)
-- 🏷️ [YouTube-Tag Addon](https://github.com/alexbatistaarantes/youtube-tag)
+- 🏷️ [YouTube-Tag Addon](https://alexbatistaarantes.github.io/youtube-tag)
 - 📗 [EpubToWeb](https://github.com/alexbatistaarantes/epubToWeb)
 - 📄 [Create PDF files from images structured in folders](https://alexbatistaarantes.github.io/create-pdf-files-from-images-structured-in-folders/)
 
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbatistaarantes&layout=compact&bg_color=222222&hide=HTML,CSS&hide_progress=true&theme=dark)](https://github.com/alexbatistaarantes?tab=repositories)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbatistaarantes&layout=compact&bg_color=222222&hide=HTML,CSS&hide_progress=true&theme=dark)](https://github.com/alexbatistaarantes?tab=repositories)
 
 ## Resume
 ### 🎓 Education
