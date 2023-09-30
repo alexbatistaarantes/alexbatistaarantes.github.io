@@ -16,7 +16,7 @@ E-mail: alexbatistaarantes@gmail.com
 - 📗 [EpubToWeb](https://github.com/alexbatistaarantes/epubToWeb)
 - 📄 [Create PDF files from images structured in folders](https://alexbatistaarantes.github.io/create-pdf-files-from-images-structured-in-folders/)
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbatistaarantes&layout=compact&bg_color=222222&hide=HTML,CSS&hide_progress=true&theme=dark)](https://github.com/alexbatistaarantes?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbatistaarantes&layout=compact&bg_color=222222&hide=HTML,CSS&hide_progress=true&theme=dark)](https://github.com/alexbatistaarantes?tab=repositories)
 
 ## Resume
 ### 🎓 Education
