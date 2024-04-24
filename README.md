@@ -50,14 +50,12 @@ E-mail: alexbatistaarantes@gmail.com
 ### 📝 Courses
 
 #### Microsoft Power BI Desktop for Business Intelligence
-- Udemy
+- [Udemy](https://www.udemy.com/certificate/UC-3be4941d-83ba-4bab-8418-a1d4141e713a/)
 - **PowerBI**, **reporting**
-- [Certificate](https://www.udemy.com/certificate/UC-3be4941d-83ba-4bab-8418-a1d4141e713a/)
 
 #### Web Programmer
-- IFGoiano
-- **MySQL** and **PHP**
-- [Certificate](https://eadmoodle.ifgoiano.edu.br/mod/simplecertificate/verify.php?code=51443570-34b0-11eb-ae60-bb5d21c3f95c)
+- [IFGoiano](https://eadmoodle.ifgoiano.edu.br/mod/simplecertificate/verify.php?code=51443570-34b0-11eb-ae60-bb5d21c3f95c)
+- **MySQL**, **PHP**, **Apache**, **HTML**, **CSS**
 
 #### Advanced Excel
 - Senac
