@@ -18,7 +18,7 @@ E-mail: alexbatistaarantes@gmail.com
 - 📄 [Create PDF files from images structured in folders](https://alexbatistaarantes.github.io/create-pdf-files-from-images-structured-in-folders/)
 - 🕹️ [Pico 8 games](https://alexbatistaarantes.github.io/pico-8-games/)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbatistaarantes&layout=compact&bg_color=222222&hide=HTML,CSS&hide_progress=true&theme=dark)](https://github.com/alexbatistaarantes?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbatistaarantes&layout=compact&bg_color=222222&hide=HTML,CSS,SCSS&hide_progress=true&theme=dark)](https://github.com/alexbatistaarantes?tab=repositories)
 
 ## Resume
 ### 🎓 Education
