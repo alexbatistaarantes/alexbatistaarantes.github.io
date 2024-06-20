@@ -14,6 +14,7 @@ E-mail: alexbatistaarantes@gmail.com
 - 📚 [**Data Analysis Portfolio**](https://alexbatistaarantes.github.io/data-analysis/)
 - 📊 [Letterboxd Dashboard](https://alexbatistaarantes.github.io/letterboxd-dashboard/)
 - 🏷️ [YouTube-Tag Addon](https://alexbatistaarantes.github.io/youtube-tag)
+- 📄 [Auxílio Avaliação (TCC)](https://github.com/alexbatistaarantes/auxilio-avaliacao)
 - 📗 [EpubToWeb](https://github.com/alexbatistaarantes/epubToWeb)
 - 📄 [Create PDF files from images structured in folders](https://alexbatistaarantes.github.io/create-pdf-files-from-images-structured-in-folders/)
 - 🕹️ [Pico 8 games](https://alexbatistaarantes.github.io/pico-8-games/)
