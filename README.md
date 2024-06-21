@@ -9,7 +9,7 @@ E-mail: alexBatistaArantes@gmail.com
 
 [Baixar currículo em PDF](CV.pdf)
 
-## 📦 Apps and Repositories
+## 📦 Portfólio
 
 - 📊 [Letterboxd Dashboard (JavaScript)](https://alexbatistaarantes.github.io/letterboxd-dashboard/)
 - 🏷️ [YouTube-Tag Addon (JavaScript)](https://alexbatistaarantes.github.io/youtube-tag)
@@ -61,3 +61,5 @@ E-mail: alexBatistaArantes@gmail.com
 
 #### Excel Completo
 - Senac
+
+🇺🇸 [In English](README_en)
